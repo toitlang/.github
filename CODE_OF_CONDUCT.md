@@ -1,4 +1,3 @@
-
 # Contributor Covenant Code of Conduct
 
 The following code forms the foundation for the

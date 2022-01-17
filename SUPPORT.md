@@ -4,10 +4,10 @@ Welcome to Toit!
 
 # Documentation
 
-The [Toit docs](https://docs.toit.io) have lots of information. Some of it is
+The [Toit documentation](https://docs.toit.io) has lots of information. Some of it is
 not applicable to the open-source variant, but a lot of sections are variant-neutral.
 
-For example the [Language section](https://docs.toit.io/language) applies to the
+For example the [language section](https://docs.toit.io/language) applies to the
 close-source and open-source framework.
 
 The libraries are documented in the [toitdocs](https://libs.toit.io/).
@@ -41,7 +41,7 @@ your question.
 We use Github's [discussions](https://github.com/toitlang/toit/discussions) as
 our forum.
 
-## Real-time Chat
+## Real-time chat
 
 You can reach us on:
 
