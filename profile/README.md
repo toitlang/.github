@@ -2,7 +2,7 @@
 
 Get started with the Toit platform by [downloading](https://github.com/toitlang/jaguar#how-do-i-use-it) 
 the open source Jaguar tooling — and experience live reloading on your ESP32s today. It takes less
-than 5 minutes 🎉
+than 5 minutes!
 
 Running code on your devices is as easy as pie through Jaguar and everything works over your local
 WiFi with no cloud tie-ins:
