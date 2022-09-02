@@ -3,7 +3,7 @@
 Get started with the Toit platform by [downloading](https://github.com/toitlang/jaguar#how-do-i-use-it) 
 the open source Jaguar tooling — and experience live reloading on your ESP32s today.
 
-Running code on your devices is as easy as pie through Jaguar and all communication is local to
+Running code on your devices is as easy as pie through Jaguar and you do not need any cloud connectivity:
 :
 
 ``` sh
